@@ -2,4 +2,4 @@
 print("Sample text in Git...")
 print("Thank you Git")
 
-#Some lines
+print("Last lines")
